@@ -187,7 +187,7 @@ def login_screen():
                 else:
                     st.error("Incorrect username/password. (default: admin / admin123)")
 
-        st.caption("Default → Admin: **admin / admin123** · Coach password: **coach123** · Student PIN: **1234**")
+        
         st.markdown("</div>", unsafe_allow_html=True)
 
 
