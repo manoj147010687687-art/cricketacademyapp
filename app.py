@@ -126,7 +126,7 @@ def academy_banner():
             '''<div class="academy-banner-fallback">
                     <h1>🏏 Shree Shyam Cricket Academy Bahadurgarh</h1>
                     <p>AI Performance &amp; Fitness Suite Pro — add your academy's photo to
-                    <code>assets/academy_photo.jpg</code> to instantly show it as the banner.</p>
+                    <code>academy_photo.jpg</code> to instantly show it as the banner.</p>
                 </div>''',
             unsafe_allow_html=True,
         )
