@@ -1220,7 +1220,7 @@ def login_teaser():
     if st.button(label, use_container_width=True, type="primary", key="login_live_teaser_btn"):
         st.query_params["live"] = "1"
         st.rerun()
-    st.caption("Or simply share this URL with anyone: **your-app-url** + `?live=1`")
+    #st.caption("Or simply share this URL with anyone: **your-app-url** + `?live=1`")
 
 
 def public_live_page():
