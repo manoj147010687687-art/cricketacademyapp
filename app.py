@@ -124,10 +124,7 @@ def academy_banner():
     else:
         st.markdown(
             '''<div class="academy-banner-fallback">
-                   <h1>🏏 Shree Shyam Cricket Academy Bahadurgarh</h1>
-<p style="font-size:20px; color:#FFD700; font-weight:600;">
-    "Train Hard • Play Smart • Become a Champion"
-</p>
+                   <h1>🏏 Shree Shyam Cricket Academy Bahadurgarh ("Train Hard • Play Smart • Become a Champion")</h1>
                     
                 </div>''',
             unsafe_allow_html=True,
