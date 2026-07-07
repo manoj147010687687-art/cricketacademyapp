@@ -1,0 +1,8 @@
+Place your academy's photo here with this exact filename:
+    academy_photo.jpg   (or academy_photo.png / academy_photo.jpeg)
+
+Just copy/paste the file into this 'assets' folder — the app will
+automatically display it as a banner at the top of the dashboard and
+login screen.
+If no photo is added, the app will show a beautiful gradient banner instead
+(as it does now).
