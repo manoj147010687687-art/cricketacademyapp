@@ -124,9 +124,11 @@ def academy_banner():
     else:
         st.markdown(
             '''<div class="academy-banner-fallback">
-                    <h1>🏏 Shree Shyam Cricket Academy Bahadurgarh</h1>
-                    <p>AI Performance &amp; Fitness Suite Pro — add your academy's photo to
-                    <code>academy_photo.jpg</code> to instantly show it as the banner.</p>
+                   <h1>🏏 Shree Shyam Cricket Academy Bahadurgarh</h1>
+<p style="font-size:20px; color:#FFD700; font-weight:600;">
+    "Train Hard • Play Smart • Become a Champion"
+</p>
+                    
                 </div>''',
             unsafe_allow_html=True,
         )
